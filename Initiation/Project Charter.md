@@ -34,7 +34,7 @@ This project involves migrating a company’s existing website from a legacy hos
 
 ##  **Business Case (Cost-Benefit Analysis)**
 
-### 💸 Costs
+###  Costs
 
 * Cloud hosting subscription costs
 * Migration effort (developer + DevOps time)
