@@ -1,10 +1,10 @@
-## 📌 **Project Name**
+##  **Project Name**
 
 **Website Migration to Cloud Infrastructure**
 
 ---
 
-## 🧾 **Project Description**
+##  **Project Description**
 
 This project involves migrating a company’s existing website from a legacy hosting environment to a modern cloud-based infrastructure. The objective is to improve website performance, scalability, security, and reliability while minimizing downtime and ensuring zero data loss during the transition.
 
@@ -20,20 +20,19 @@ This project involves migrating a company’s existing website from a legacy hos
 
 ---
 
-## 📦 **Project Deliverables**
+## **Project Deliverables**
 
 * Project Charter
 * Migration Plan
 * Stakeholder Matrix
 * Risk Register
-* Deployment Checklist
 * Project Timeline (Gantt Chart)
 * Testing & Validation Report
 * Post-Migration Performance Report
 
 ---
 
-## 💼 **Business Case (Cost-Benefit Analysis)**
+##  **Business Case (Cost-Benefit Analysis)**
 
 ### 💸 Costs
 
@@ -44,7 +43,7 @@ This project involves migrating a company’s existing website from a legacy hos
 
 ---
 
-### 💰 Benefits
+###  Benefits
 
 * Reduced infrastructure maintenance costs (long-term)
 * Improved website performance leading to better user experience
@@ -54,13 +53,13 @@ This project involves migrating a company’s existing website from a legacy hos
 
 ---
 
-### 📊 Net Value
+###  Net Value
 
 While short-term costs increase due to migration effort, the long-term benefits include **operational efficiency, reduced downtime losses, and improved customer experience**, leading to overall business growth.
 
 ---
 
-## 📍 **Scope**
+##  **Scope**
 
 ### ✅ In Scope
 
@@ -82,23 +81,23 @@ While short-term costs increase due to migration effort, the long-term benefits 
 
 ---
 
-## 👥 **Project Team**
+##  **Project Team**
 
-### 🧑‍💼 Project Sponsor
+### Project Sponsor
 
 **Head of Digital / CTO**
 Provides strategic direction and approves major decisions
 
 ---
 
-### 👩‍💻 Project Lead
+###  Project Lead
 
 **IT Project Manager (You)**
 Responsible for planning, coordination, execution, and delivery
 
 ---
 
-### 🛠️ Teams Involved
+###  Teams Involved
 
 * **Development Team** – handles codebase and migration adjustments
 * **DevOps Team** – manages cloud infrastructure and deployment
