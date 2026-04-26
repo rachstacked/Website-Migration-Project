@@ -97,7 +97,7 @@ Each folder represents a phase of the project lifecycle, covering all key delive
 - Iterative execution improves quality  
 - Strong communication drives alignment  
 
- View Detailed [Lessons Learned](Lessons Learned.md)
+ View Detailed [Lessons Learned](https://github.com/rachstacked/Website-Migration-Project/blob/main/Lessons%20Learned.md)
 
 ---
 
