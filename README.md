@@ -97,7 +97,7 @@ Each folder represents a phase of the project lifecycle, covering all key delive
 - Iterative execution improves quality  
 - Strong communication drives alignment  
 
- [View Detailed Lessons Learned](Lessons Learnt.md)
+ View Detailed [Lessons Learned](Lessons Learnt.md)
 
 ---
 
