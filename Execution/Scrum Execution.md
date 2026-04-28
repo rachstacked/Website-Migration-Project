@@ -19,3 +19,4 @@
 ---
 
 ## **Project Completion**
+![Sprint Complete](https://github.com/rachstacked/Website-Migration-Project/blob/main/Images/sprint%20complete.PNG)
